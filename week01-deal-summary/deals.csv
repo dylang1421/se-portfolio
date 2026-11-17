@@ -1,0 +1,13 @@
+deal_id,account,vendor,stage,amount,rep,close_date
+D-1001,Acme Health,CrowdStrike,Discovery,48000,Robert,2026-12-15
+D-1002,Lone Star Energy,Microsoft,Proposal,125000,Priya,2026-12-20
+D-1003,Hill Country Bank,Okta,Negotiation,62000,Robert,2026-11-30
+D-1004,Bluebonnet Logistics,Zscaler,Closed Won,91000,Marcus,2026-11-05
+D-1005,Acme Health,Microsoft,Closed Lost,30000,Robert,2026-10-28
+D-1006,Capitol Insurance,Palo Alto,Proposal,154000,Priya,2027-01-15
+D-1007,Pecan Street Retail,Okta,Discovery,27000,Marcus,2027-01-31
+D-1008,Lone Star Energy,CrowdStrike,Negotiation,88000,Priya,2026-12-10
+D-1009,Riverside Schools,Microsoft,Closed Won,42000,Robert,2026-11-01
+D-1010,Hill Country Bank,Zscaler,Discovery,73000,Marcus,2027-02-14
+D-1011,Capitol Insurance,Okta,Closed Won,58000,Robert,2026-10-15
+D-1012,Bluebonnet Logistics,Microsoft,Proposal,110000,Marcus,2026-12-31
