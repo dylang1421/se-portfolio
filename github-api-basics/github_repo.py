@@ -2,7 +2,7 @@ import requests  # third-party library that makes HTTP requests simple
 
 BASE_URL = "https://api.github.com"
 OWNER = "dylang1421"
-REPO = "se-portfolio"  # this repo doesn't exist, so you'll see an error message
+REPO = "se-portfolio"  # change to a repo that doesn't exist to see the error path
 
 # --- Part 1: the same call you made with curl: GET /repos/{owner}/{repo} ---
 response = requests.get(f"{BASE_URL}/repos/{OWNER}/{REPO}")
